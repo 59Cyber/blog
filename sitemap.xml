@@ -1,25 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://59cyber.github.io/Blog/en/sitemap.xml</loc>
-    
-      <lastmod>2020-10-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://59cyber.github.io/Blog/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://59cyber.github.io/Blog/ar/sitemap.xml</loc>
-    
-      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://59Cyber.github.io/Blog/categories/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/tags/github/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/categories/how_to/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/p/how-to-make-a-free-website/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/tags/hugo/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/post/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/tags/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/tags/windows-10/</loc>
+    <lastmod>2022-02-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/about/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/page/</loc>
+    <lastmod>2022-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/archives/</loc>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/categories/ctf/</loc>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/glossary/</loc>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/links/</loc>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/categories/projects/</loc>
+  </url><url>
+    <loc>https://59Cyber.github.io/Blog/search/</loc>
+  </url>
+</urlset>
