@@ -1,0 +1,31 @@
+---
+title: Glossary
+links:
+  - title: Cyber Security
+    description: The protection of devices, services and networks — and the information on them — from theft or damage.
+    website: https://www.ncsc.gov.uk/information/ncsc-glossary/#cyber-security
+    image: shield-lock.svg
+
+  - title: Data At Rest 
+    description: Describes data in persistent storage such as hard disks, removable media or backups.
+    website: https://www.ncsc.gov.uk/information/ncsc-glossary/#data-at-rest
+    image: database-import.svg
+
+  - title: The Cyber Security Body Of Knowledge ~ Cybok
+    description: A comprehensive Body of Knowledge to inform and underpin education and professional training for the cyber security sector.
+    website: https://www.cybok.org/
+    image: tabler-book.svg
+
+
+
+
+
+menu:
+    main: 
+        weight: -50
+        params:
+            icon: notebook
+
+comments: false
+---
+Below are a number of my favorite links I like to use, ranging from tools and learning resources:

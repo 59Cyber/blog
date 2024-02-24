@@ -6,14 +6,24 @@
     <description>Recent content in Posts on Five-Nine Cyber</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://59Cyber.github.io/Blog/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://59Cyber.github.io/Blog/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Make A Free Website</title>
       <link>https://59Cyber.github.io/Blog/p/how-to-make-a-free-website/</link>
-      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
       
       <guid>https://59Cyber.github.io/Blog/p/how-to-make-a-free-website/</guid>
-      <description>Introduction Yep, You read that right! This post is dedicated to creating a website completely free using Hugo and Github. Infact, this post is going to be about how this very site was set up. This how to is aimed at individuals who have little coding experience/ understanding – thought I’d get that out of the way – but most of it is self explanatory and easy to use once setup.</description>
+      <description>Introduction Yes, you read that correctly! In this post, we&amp;rsquo;ll guide you through the process of creating a website entirely for free using Hugo and Github. Specifically, we&amp;rsquo;ll delve into the setup of the very site you&amp;rsquo;re currently exploring. This step-by-step guide is designed for individuals with limited coding experience or understanding. Despite its technical nature, most of the process is self-explanatory and is relatively straightforward once you&amp;rsquo;ve completed the initial setup.</description>
+    </item>
+    
+    <item>
+      <title>Fixing The Dell Inspiron 16 Plus Trackpad</title>
+      <link>https://59Cyber.github.io/Blog/p/fixing-the-dell-inspiron-16-plus-trackpad/</link>
+      <pubDate>Sat, 14 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://59Cyber.github.io/Blog/p/fixing-the-dell-inspiron-16-plus-trackpad/</guid>
+      <description>For those individuals who have purchased a new Dell Inspiron may find themselves in a world of frustration after a brand-new laptop begins to have trackpad issues almost right out of the box or after a few days/ weeks of use. I am hoping to address what I think the issue is and how I fixed it on my device.
+What Is The Issue Upon using the laptop, everything seems to operate normally but after a while the track pad will stop tracking movements and clicks accurately.</description>
     </item>
     
   </channel>
